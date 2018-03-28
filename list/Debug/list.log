@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\list.h(185): warning C4018: '>=': signed/unsigned mismatch
+  e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\list.h(184): note: see reference to function template instantiation 'auto List<T>::delete_index(const int)' being compiled
+  e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\list.h(309): note: while compiling class template member function 'List<T> List<T>::sort(void)'
+  e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\main.cpp(20): note: see reference to function template instantiation 'List<T> List<T>::sort(void)' being compiled
+  e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\main.cpp(11): note: see reference to class template instantiation 'List<T>' being compiled
+e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\list.h(370): warning C4715: 'List<int>::operator=': not all control paths return a value
+e:\work\visual studio\vsc\2-й курс\ооп\slist\list\list\list.h(210): warning C4715: 'List<int>::delete_index': not all control paths return a value
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  list.vcxproj -> E:\WORK\Visual Studio\VSC\2-й курс\ООП\SList\list\Debug\list.exe
